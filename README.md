@@ -30,7 +30,7 @@
 <p>
   <em>
     Experience the hidden world:<br>
-    🔗 <a href="ADD LINK HERE "><b>Visit SHADOWNET</b></a>
+    🔗 <a href="https://shadownet-1eace.web.app/"><b>Visit SHADOWNET</b></a>
   </em>
 </p>
 
