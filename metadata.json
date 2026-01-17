@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Shadow-Net",
+  "description": "A steganography-based secure communication tool hidden within a social image gallery.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
